@@ -775,7 +775,7 @@ html {
 body {
   font-family: 'Lato', sans-serif;
   color: #515151;
-  background-color: #808080;
+  background-color: #fbfbfb;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -889,17 +889,17 @@ table tfoot td {
 }
 
 .post, .article-page {
-  background-color: #fff;
+  background-color: #808080;
 }
 
 ::-moz-selection {
   background: rgba(38, 57, 89, 0.8);
-  color: #ffffff;
+  color: #808080;
 }
 
 ::selection {
   background: rgba(38, 57, 89, 0.8);
-  color: #ffffff;
+  color: #808080;
 }
 
 .clearfix::before, .clearfix::after {
@@ -933,7 +933,7 @@ table tfoot td {
   width: 240px;
   height: 100%;
   padding: 20px 10px;
-  background-color: #ffffff;
+  background-color: #808080;
 }
 
 .about {
