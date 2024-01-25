@@ -889,17 +889,17 @@ table tfoot td {
 }
 
 .post, .article-page {
-  background-color: #808080;
+  background-color: #fff;
 }
 
 ::-moz-selection {
   background: rgba(38, 57, 89, 0.8);
-  color: #808080;
+  color: #ffffff;
 }
 
 ::selection {
   background: rgba(38, 57, 89, 0.8);
-  color: #808080;
+  color: #ffffff;
 }
 
 .clearfix::before, .clearfix::after {
@@ -933,7 +933,7 @@ table tfoot td {
   width: 240px;
   height: 100%;
   padding: 20px 10px;
-  background-color: #808080;
+  background-color: #ffffff;
 }
 
 .about {
