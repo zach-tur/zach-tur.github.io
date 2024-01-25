@@ -11,8 +11,9 @@ url: "zach-tur.github.io" # the base hostname & protocol for your site, e.g. htt
 # Author Settings
 author: Zach Turski # add your name
 author-img:  # add your photo
-about-author: GIS Technician focused on geospatial applications provided through ArcGIS and other technologies.
-sidebar-content: ***Add more info here (add body for this)***
+about-author: >
+  GIS Technician focused on geospatial applications provided through ArcGIS and other technologies.
+  ***Add more info here (add body for this)***
 # social-twitter: # add your Twitter handle
 # social-facebook: # add your Facebook handle
 social-github: zach-tur # add your Github handle
