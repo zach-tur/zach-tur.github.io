@@ -61,12 +61,6 @@ Rate of accident increases, or decreases, are shown in Figure 2. The year 2016, 
 ## *Vehicle accident heatmaps*
 The following pages show heatmaps of accidents per year from 2017–2021. Points considered are within a 1.25mi radius.
 
-{% include carousel.html height="50" unit="%" duration="7" number="1" %}
-{% include carousel.html height="50" unit="%" duration="7" number="2" %}
-{% include carousel.html height="50" unit="%" duration="7" number="3" %}
-{% include carousel.html height="50" unit="%" duration="7" number="4" %}
-{% include carousel.html height="50" unit="%" duration="7" number="5" %}
-
 <!--
 ![2017]({{site.baseurl}}/assets/img/TrafficAccidentMap/2017.png)
 ![2018]({{site.baseurl}}/assets/img/TrafficAccidentMap/2018.png)
