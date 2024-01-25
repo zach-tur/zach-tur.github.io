@@ -5,6 +5,13 @@ description:
 img: /TrafficAccidentMap/Preview.png
 fig-caption:
 tags:
+carousels:
+  - images:
+    - image: /assets/img/TrafficAccidentMap/2017.png
+    - image: /assets/img/TrafficAccidentMap/2018.png
+    - image: /assets/img/TrafficAccidentMap/2019.png
+    - image: /assets/img/TrafficAccidentMap/2020.png
+    - image: /assets/img/TrafficAccidentMap/2021.png
 ---
 
 *This is an independent project worked on during my time in school. Although the data indeed shows a correlation over time of an increase in reported accidents by police departments, the results of this work also created more questions between myself and my teacher as to the reasons why.*
@@ -53,6 +60,8 @@ Rate of accident increases, or decreases, are shown in Figure 2. The year 2016, 
 
 ## *Vehicle accident heatmaps*
 The following pages show heatmaps of accidents per year from 2017–2021. Points considered are within a 1.25mi radius.
+
+{% include carousel.html height="50" unit="%" duration="7" number="1" %}
 
 ![2017]({{site.baseurl}}/assets/img/TrafficAccidentMap/2017.png)
 ![2018]({{site.baseurl}}/assets/img/TrafficAccidentMap/2018.png)
