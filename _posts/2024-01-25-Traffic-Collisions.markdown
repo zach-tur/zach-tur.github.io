@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Traffic Collisions 2017-2021
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+description:
 img: Preview.png
 fig-caption:
 tags:
