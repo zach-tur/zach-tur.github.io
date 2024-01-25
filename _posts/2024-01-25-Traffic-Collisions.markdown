@@ -5,13 +5,6 @@ description:
 img: /TrafficAccidentMap/Preview.png
 fig-caption:
 tags:
-carousels:
-  - images:
-    - image: {{site.baseurl}}/assets/img/TrafficAccidentMap/2017.png
-    - image: {{site.baseurl}}/assets/img/TrafficAccidentMap/2018.png
-    - image: {{site.baseurl}}/assets/img/TrafficAccidentMap/2019.png
-    - image: {{site.baseurl}}/assets/img/TrafficAccidentMap/2020.png
-    - image: {{site.baseurl}}/assets/img/TrafficAccidentMap/2021.png
 ---
 
 *This is an independent project worked on during my time in school. Although the data indeed shows a correlation over time of an increase in reported accidents by police departments, the results of this work also created more questions between myself and my teacher as to the reasons why.*
@@ -61,13 +54,11 @@ Rate of accident increases, or decreases, are shown in Figure 2. The year 2016, 
 ## *Vehicle accident heatmaps*
 The following pages show heatmaps of accidents per year from 2017–2021. Points considered are within a 1.25mi radius.
 
-<!--
 ![2017]({{site.baseurl}}/assets/img/TrafficAccidentMap/2017.png)
 ![2018]({{site.baseurl}}/assets/img/TrafficAccidentMap/2018.png)
 ![2019]({{site.baseurl}}/assets/img/TrafficAccidentMap/2019.png)
 ![2020]({{site.baseurl}}/assets/img/TrafficAccidentMap/2020.png)
 ![2021]({{site.baseurl}}/assets/img/TrafficAccidentMap/2021.png)
--->
 
 ## *Conclusion*
 The data pulled from the Traffic Collisions report clearly shows an overall increase in traffic accidents on the roads of San Diego over the past 5 years. From 2015 to 2021, there was an average increase of 737 accidents per year, with an increase of over 4,000 reported accidents in 2021 compared with 2015. Population or driver increases, or decreases, have not been considered. This report only shows a flat increase or decrease in number of accidents involving a police report, which is still a significant number. Police reports would be expected to maintain a standard for when a vehicle accident would be reported, so this information should remain relatively consistent year over year.
