@@ -9,7 +9,7 @@ url: "zach-tur.github.io" # the base hostname & protocol for your site, e.g. htt
 # Author Settings
 author: Zach Turski # add your name
 author-img: zt-portrait.png # add your photo
-about-author: >
+about-author: |-
   GIS Technician  
     
   Analytical and detail-oriented professional with 12+ years of diverse experience in progressing through a series of 
