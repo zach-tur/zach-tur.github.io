@@ -14,7 +14,7 @@ carousels:
     - image: /assets/img/TrafficAccidentMap/2021.png
 ---
 
-*This is an independent project worked on during my time in school. Although the data indeed shows a correlation over time of an increase in reported accidents by police departments, the results of this work also created more questions between myself and my teacher as to the reasons why.*
+*This is an independent/capstone project worked on during my time at SWC*
 
 # Frequency of accidents in San Diego County from 2015 - 2022
 
